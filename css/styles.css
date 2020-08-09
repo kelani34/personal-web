@@ -103,9 +103,9 @@ a:hover{
   margin-right: 30px !important;
 }
 .chilli-img{
-  width: 25% !important;
-  float:right !important;
-  margin-left: 30px !important;
+  width: 25% ;
+  float:right;
+  margin-left: 30px;
 }
 .btn {
   background: #11cdd4 !important; !important
@@ -184,24 +184,4 @@ a:hover{
 .icon:hover{
   color: #ff4c65 !important;
 }
-.skill-mf span {
-  color: #4e4e4e !important;
-}
 
-.skill-mf .progress {
-  background-color: #d7ebf8 !important;
-  margin: .5rem 0 1.2rem 0 !important;
-  border-radius: 0 !important;
-  height: .7rem !important;
-}
-
-.skill-mf .progress .progress-bar {
-  height: .7rem !important;
-  background-color: #c8ff31 !important; !important
-}
-.skill-mf{
-  text-align: center;
-  padding:27px 1000px 45px 50px;
-  background-color:#66bfbf;
-  border-radius: 0% 20% 0% 20% ;
-}
